@@ -1,6 +1,6 @@
 # Sentiment-Classification-of-Snappfood-Comments with deployment
 
-This project focuses on classifying the sentiment of user comments on Snappfood, one of the largest online food delivery platforms in Iran.
+This project focuses on classifying the sentiment of user comments on Snappfood, one of Iran's largest online food delivery platforms.
 
 This repository contains a complete pipeline for sentiment classification of Persian-language comments collected from Snappfood, one of Iran’s leading online food delivery services.
 
