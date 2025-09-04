@@ -2,7 +2,7 @@
 
 This project focuses on classifying the sentiment of user comments on Snappfood, one of Iran's largest online food delivery platforms.
 
-This repository contains a complete pipeline for sentiment classification of Persian-language comments collected from Snappfood, one of Iran’s leading online food delivery services.
+This repository holds a complete pipeline for sentiment classification of Persian-language comments collected from Snappfood, one of Iran’s leading online food delivery services.
 
 ![SCSNAPFOOD](https://files.realpython.com/media/NLP-for-Beginners-Pythons-Natural-Language-Toolkit-NLTK_Watermarked.16a787c1e9c6.jpg)
 
