@@ -6,5 +6,5 @@ This repository contains a complete pipeline for sentiment classification of Per
 
 ![SCSNAPFOOD](https://files.realpython.com/media/NLP-for-Beginners-Pythons-Natural-Language-Toolkit-NLTK_Watermarked.16a787c1e9c6.jpg)
 
-The project involves preprocessing Persian text data, training an ensemble model, and providing two deployment platforms:
+The project includes preprocessing Persian text data, training an ensemble model, and providing two deployment platforms:
 a RESTful API using Flask, and an interactive web app using Streamlit.
